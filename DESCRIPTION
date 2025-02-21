@@ -1,0 +1,14 @@
+Package: plottwist
+Title: Custom ggplot2 Theme for Elegant and Customizable Plots
+Version: 0.0.0.9000
+Authors@R: 
+    person("Ayomide Zul", "Kazeem", , "ayomidezulkazeem@gmail.com", role = c("aut", "cre"))
+Maintenair: person("Ayomide Zul", "Kazeem", , "ayomidezulkazeem@gmail.com")
+Description: This repository contains files for using the Plottwist theme, a custom theme I developed in R for creating visually appealing plots. The theme is highly customizable to suit your preferences and can be adjusted based on your specific choices.
+Imports: ggplot2
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+URL: https://github.com/Zulkazeem/Plottwist
+BugReports: https://github.com/Zulkazeem/Plottwist/issues
